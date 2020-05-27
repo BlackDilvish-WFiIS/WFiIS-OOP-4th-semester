@@ -1,0 +1,4 @@
+/cygdrive/d/BStudia/OP1 (4th semester)/Lab5/build/CMakeFiles/rebuild_cache.dir
+/cygdrive/d/BStudia/OP1 (4th semester)/Lab5/build/CMakeFiles/edit_cache.dir
+/cygdrive/d/BStudia/OP1 (4th semester)/Lab5/build/CMakeFiles/Stany.dir
+/cygdrive/d/BStudia/OP1 (4th semester)/Lab5/build/CMakeFiles/valgrind.dir

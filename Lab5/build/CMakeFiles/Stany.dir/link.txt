@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -Wall -g  -Wl,--enable-auto-import CMakeFiles/Stany.dir/Instalator.cpp.o CMakeFiles/Stany.dir/src/ListaString.cpp.o CMakeFiles/Stany.dir/src/MaszynaStanow.cpp.o CMakeFiles/Stany.dir/src/Stan.cpp.o  -o Stany.exe -Wl,--out-implib,libStany.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

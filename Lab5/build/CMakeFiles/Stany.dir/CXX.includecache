@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/ListaString.h
+iostream
+-
+string
+-
+vector
+-
+
+/cygdrive/d/BStudia/OP1 (4th semester)/Lab5/src/ListaString.cpp
+ListaString.h
+/cygdrive/d/BStudia/OP1 (4th semester)/Lab5/src/ListaString.h
+
